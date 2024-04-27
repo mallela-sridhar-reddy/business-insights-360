@@ -78,8 +78,12 @@ Business insights 360 (1.0)
 # Sales View
 ![Screenshot 2024-04-27 165154](https://github.com/mallela-sridhar-reddy/business-insights-360/assets/115725595/4ca5c395-17fd-4187-8f91-094725102635)
 
-
+# Marketing View
 ![Screenshot 2024-04-27 165215](https://github.com/mallela-sridhar-reddy/business-insights-360/assets/115725595/d45f4ba8-5e49-4df9-970b-1f11b4b97a56)
+
+
+![Screenshot 2024-04-27 165241](https://github.com/mallela-sridhar-reddy/business-insights-360/assets/115725595/c37b94bc-b1b5-49ef-9865-0edd545bfe96)
+
 
 
 
