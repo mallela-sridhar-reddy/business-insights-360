@@ -69,7 +69,8 @@ By using this report, decisions can be taken based on the data. Further it will 
 Business insights 360 (1.0)
 
 
-
+# Home
+![Screenshot 2024-04-27 165106](https://github.com/mallela-sridhar-reddy/business-insights-360/assets/115725595/7331dc6d-f23e-47b4-929b-2cd7673fd850)
 
 
 
