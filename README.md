@@ -81,10 +81,12 @@ Business insights 360 (1.0)
 # Marketing View
 ![Screenshot 2024-04-27 165215](https://github.com/mallela-sridhar-reddy/business-insights-360/assets/115725595/d45f4ba8-5e49-4df9-970b-1f11b4b97a56)
 
-
+# Supply chain View
 ![Screenshot 2024-04-27 165241](https://github.com/mallela-sridhar-reddy/business-insights-360/assets/115725595/c37b94bc-b1b5-49ef-9865-0edd545bfe96)
 
 
+# Executive View
+![Screenshot 2024-04-27 165316](https://github.com/mallela-sridhar-reddy/business-insights-360/assets/115725595/aa5d3810-2e72-41bf-8ec1-b1cfd650019e)
 
 
 
