@@ -1,6 +1,6 @@
 **BUSINESS INSIGHTS 360**
 
-[Link to Interactive dashboard](https://www.novypro.com/project/atliq-hardware-business-insights-360-)
+[Link to Interactive dashboard](https://app.powerbi.com/groups/me/reports/d8879e00-7a95-40bf-b567-20eebb292cb1/ReportSection13dd46f23b46243940e0?experience=power-bi)
 
 
 **Project Overview**
