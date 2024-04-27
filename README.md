@@ -72,8 +72,11 @@ Business insights 360 (1.0)
 # Home
 ![Screenshot 2024-04-27 165106](https://github.com/mallela-sridhar-reddy/business-insights-360/assets/115725595/7331dc6d-f23e-47b4-929b-2cd7673fd850)
 
-
+# Finance View
 ![Screenshot 2024-04-27 165132](https://github.com/mallela-sridhar-reddy/business-insights-360/assets/115725595/faef09d7-86e6-4fe4-b97e-cbc901df9879)
+
+
+![Screenshot 2024-04-27 165154](https://github.com/mallela-sridhar-reddy/business-insights-360/assets/115725595/4ca5c395-17fd-4187-8f91-094725102635)
 
 
 
