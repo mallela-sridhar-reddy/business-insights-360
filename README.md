@@ -1,6 +1,6 @@
 **BUSINESS INSIGHTS 360**
 
-[Link to Interactive dashboard](https://app.powerbi.com/groups/me/reports/d8879e00-7a95-40bf-b567-20eebb292cb1/ReportSection13dd46f23b46243940e0?experience=power-bi)
+[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjU2ZDlhMzktODgyMy00MTM4LWIwYmQtOWJjN2FiZGIzYjU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 **Project Overview**
